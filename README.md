@@ -1,3 +1,5 @@
 # Udacity_assignments
-Udacity Deep Learning Assignments (based on Tensorflow)
+
+Udacity Deep Learning course assignments (based on Tensorflow)
+
 Course link:  https://classroom.udacity.com/courses/ud730
