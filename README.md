@@ -1,4 +1,4 @@
-# Udacity_assignments
+# Udacity_Deep Learning_Assignments
 
 Udacity Deep Learning course assignments (based on Tensorflow)
 
